@@ -1,2 +1,4 @@
 # sexlang
-Programming language based purely on sexual references
+Custom Grammer for php based purely on sexual references
+
+Custom Grammar in its own file -> parse with php -> do stuff
